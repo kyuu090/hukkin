@@ -1,0 +1,7 @@
+CREATE TABLE kintore(
+  userid TEXT PRIMARY KEY,
+  date DATE NOT NULL,
+  hukkin INTEGER,
+  udetate INTEGER,
+  sukuwatto INTEGER
+  );
